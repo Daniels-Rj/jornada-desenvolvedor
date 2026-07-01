@@ -1,8 +1,10 @@
 # 🎨 UI e UX Design
 
-> 📚 Curso: Origamid
-> 📖 Módulo: Fundamentos de Design
-> 🎯 Objetivo: Compreender a diferença entre UI (User Interface) e UX (User Experience), entendendo como ambos trabalham juntos para criar produtos digitais eficientes.
+| Informação | Detalhes |
+|------------|----------|
+| 📚 **Curso** | Origamid |
+| 📖 **Módulo** | Fundamentos de Design |
+| 🎯 **Objetivo** | Compreender a diferença entre UI (User Interface) e UX (User Experience), entendendo como ambos trabalham juntos para criar produtos digitais eficientes. |
 
 ---
 
