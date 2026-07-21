@@ -1,0 +1,219 @@
+# 📐 Espaço (Whitespace)
+
+---
+
+## 📋 Informações da Aula
+
+| Informação | Detalhes |
+|------------|----------|
+| 📚 **Curso** | Origamid |
+| 📖 **Módulo** | Fundamentos de Design |
+| 🎯 **Objetivo** | Entender como o uso correto dos espaços melhora a organização, a legibilidade e a experiência do usuário em interfaces digitais. |
+
+---
+
+## 📖 O que é Espaço?
+
+O **espaço**, também conhecido como **Whitespace (Espaço em Branco)**, é toda área vazia existente entre os elementos de uma interface.
+
+Apesar do nome, ele **não precisa ser branco**. Pode ser qualquer cor de fundo.
+
+Seu objetivo é organizar as informações e facilitar a leitura.
+
+---
+
+## 🎯 Objetivo
+
+O espaço é utilizado para:
+
+- Organizar os elementos da interface;
+- Melhorar a leitura;
+- Destacar informações importantes;
+- Criar uma hierarquia visual;
+- Tornar a navegação mais agradável.
+
+Uma interface bem espaçada transmite profissionalismo e qualidade.
+
+---
+
+## 🧠 Tipos de Espaço
+
+### 🔹 Micro Espaço
+
+É o espaço entre pequenos elementos.
+
+Exemplos:
+
+- Letras;
+- Palavras;
+- Linhas de texto;
+- Ícones;
+- Botões próximos.
+
+---
+
+### 🔹 Macro Espaço
+
+É o espaço entre grandes grupos de conteúdo.
+
+Exemplos:
+
+- Seções da página;
+- Cards;
+- Blocos de informação;
+- Menu e conteúdo principal.
+
+---
+
+## 💡 Benefícios do Espaço
+
+✔️ Melhora a legibilidade.
+
+✔️ Destaca elementos importantes.
+
+✔️ Facilita a navegação.
+
+✔️ Reduz a sensação de poluição visual.
+
+✔️ Cria uma interface elegante.
+
+✔️ Direciona o olhar do usuário.
+
+---
+
+## 📌 Exemplo
+
+### ❌ Interface sem espaço
+
+```
+TítuloTextoTextoTextoTextoTexto
+
+BotãoBotãoBotãoBotão
+
+ImagemImagemImagem
+```
+
+O usuário sente dificuldade para identificar onde cada informação começa ou termina.
+
+---
+
+### ✅ Interface com espaço
+
+```
+Título
+
+Texto...
+
+Texto...
+
+[ Botão ]
+
+Imagem
+```
+
+A leitura se torna muito mais confortável.
+
+---
+
+## 🎨 Hierarquia Visual
+
+O espaço ajuda a criar uma hierarquia entre os elementos.
+
+Normalmente:
+
+- Mais espaço = maior importância ou separação.
+- Menos espaço = elementos relacionados.
+
+O usuário consegue entender naturalmente como a informação está organizada.
+
+---
+
+## 🚀 Aplicação no Mercado
+
+Grandes empresas utilizam bastante espaço em suas interfaces.
+
+Exemplos:
+
+- Apple
+- Airbnb
+- Notion
+- Stripe
+- Nubank
+
+Esses produtos utilizam bastante espaço para transmitir organização, elegância e facilitar a leitura.
+
+---
+
+## 🛍️ Aplicando no Meu Projeto
+
+No meu aplicativo de marketplace com rede social, o uso do espaço será essencial para evitar uma interface poluída.
+
+Pretendo aplicar esse conceito em:
+
+- Feed de publicações;
+- Cards de produtos;
+- Perfil das lojas;
+- Carrinho de compras;
+- Tela de pagamento;
+- Sistema de pesquisa.
+
+Cada seção terá um bom espaçamento para facilitar a navegação e destacar as informações mais importantes.
+
+---
+
+## ✅ Boas Práticas
+
+- Manter espaçamentos consistentes.
+- Criar margens entre seções.
+- Evitar elementos muito próximos.
+- Utilizar espaços para destacar conteúdos importantes.
+- Pensar no conforto visual do usuário.
+
+---
+
+## ❌ O que evitar
+
+- Interface apertada.
+- Muitos elementos juntos.
+- Falta de alinhamento.
+- Excesso de informações em uma única tela.
+- Espaçamentos diferentes sem necessidade.
+
+---
+
+## 💭 Minha interpretação
+
+O espaço não representa uma área desperdiçada.
+
+Ele faz parte do design e melhora significativamente a organização da interface.
+
+Uma boa distribuição dos elementos torna o sistema mais intuitivo e agradável de utilizar.
+
+---
+
+## 📝 Resumo
+
+- Espaço (Whitespace) é toda área vazia entre elementos.
+- Não precisa ser branco.
+- Organiza o conteúdo.
+- Melhora a leitura.
+- Cria hierarquia visual.
+- Torna a interface mais elegante e profissional.
+
+---
+
+## 📚 Glossário
+
+**Whitespace:** Espaço vazio utilizado para organizar uma interface.
+
+**Micro Espaço:** Espaço entre pequenos elementos.
+
+**Macro Espaço:** Espaço entre grandes blocos de conteúdo.
+
+**Hierarquia Visual:** Organização dos elementos conforme sua importância.
+
+---
+
+## 🔗 Próximo assunto
+
+➡️ Tipografia
