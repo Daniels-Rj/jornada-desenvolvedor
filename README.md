@@ -1,4 +1,4 @@
-# 🚀 Jornada Desenvolvedor: Do Front ao Back
+# 🚀 Jornada Desenvolvedor: Do Back ao Front
 
 Bem-vindo(a) ao registro público dos meus estudos e da minha evolução no mundo da tecnologia. Este repositório funciona como o meu diário de bordo e portfólio de aprendizado diário.
 
@@ -10,24 +10,25 @@ O meu objetivo atual é construir uma base sólida em design de interface e fron
 
 O repositório está organizado em trilhas de aprendizado para facilitar a navegação:
 
-* **🎨 [Design & UI](./design-ui/)**: Resumos conceituais sobre UI/UX, tipografia, cores, grids e boas práticas visuais que aprendo na Origamid.
-* **🇬🇧 [Tech English](./english/)**: Dicionário de termos técnicos, verbos de ação na programação e anotações para dominar o inglês da área.
-* **☕ Java & Back-End (Em breve)**: Minhas futuras anotações sobre lógica de programação, orientação a objetos e desenvolvimento robusto.
+* **☕ Java & Back-End (Atualmente)**: Minhas futuras anotações sobre lógica de programação, orientação a objetos e desenvolvimento robusto.
+* **🎨 [Design & UI](Em breve)**: Resumos conceituais sobre UI/UX, tipografia, cores, grids e boas práticas visuais que aprendo na Origamid.
+* **🇬🇧 [Tech English](Em breve)**: Dicionário de termos técnicos, verbos de ação na programação e anotações para dominar o inglês da área.
 
 ---
 
 ## 📈 Minhas Metas Acadêmicas
 
-- [x] Entender os fundamentos de UI/UX Design.
+- [x] Iniciar os estudos de Lógica e POO com Java.
+- [ ] Entender os fundamentos de UI/UX Design.
 - [ ] Dominar HTML, CSS e JavaScript (Origamid).
 - [ ] Criar um dicionário sólido de Inglês Técnico.
-- [ ] Iniciar os estudos de Lógica e POO com Java.
+
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 
-* **Editor de Código:** VS Code (com foco em produtividade via atalhos de teclado).
+* **Editor de Código:** VS Code/Intelij (com foco em produtividade via atalhos de teclado).
 * **Versionamento:** Git & GitHub para documentação e portfólio.
 
-> *"A consistência supera o talento. Um quadradinho verde por dia."* 🖥️✨# 🚀 Jornada Desenvolvedor: Do Front ao Back
+> *"A consistência supera o talento. Um quadradinho verde por dia."* 🖥️✨# 🚀 Jornada Desenvolvedor: Do Back ao Front
