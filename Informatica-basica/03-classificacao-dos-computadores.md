@@ -10,23 +10,31 @@
 
 ## 🧮 Computadores Analógicos
 
-Os **computadores analógicos** trabalham com **grandezas físicas contínuas**.
+Os **computadores analógicos** trabalham com informações representadas por **grandezas físicas contínuas**, utilizando componentes e mecanismos físicos para realizar operações.
 
 ### 📌 Exemplo
 
-Um equipamento pode representar uma temperatura continuamente:
+Um exemplo utilizado para compreender esse conceito é o **piano**.
+
+O piano utiliza **componentes mecânicos**, como teclas, martelos e cordas, para produzir diferentes sons.
 
 ```text
-Temperatura
-
-20°C ──────────────── 25°C ──────────────── 30°C
-          ↑
-       variação contínua
+Tecla pressionada
+       ↓
+Mecanismo mecânico
+       ↓
+Martelo
+       ↓
+Corda vibra
+       ↓
+Som produzido
 ```
+
+A informação é representada por meio de **fenômenos físicos**, como o movimento e a vibração das cordas.
 
 ### 🧠 Para lembrar
 
-> **Computador analógico = trabalha com valores contínuos e grandezas físicas.**
+> **Analógico = utiliza grandezas e componentes físicos para representar ou processar informações.**
 
 ---
 
