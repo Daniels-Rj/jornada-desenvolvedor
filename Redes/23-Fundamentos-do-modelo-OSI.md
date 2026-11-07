@@ -1,4 +1,4 @@
-# Aula 10 — Fundamentos do Modelo OSI
+# Aula — Fundamentos do Modelo OSI
 
 ## Os três pilares da comunicação em redes
 
