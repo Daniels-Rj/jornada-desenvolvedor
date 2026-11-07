@@ -1,59 +1,45 @@
-# Fundamentos do Modelo OSI
+# Aula 10 — Fundamentos do Modelo OSI
 
-## 1. O que é o Modelo OSI?
+## Os três pilares da comunicação em redes
 
-O **Modelo OSI (Open Systems Interconnection)** é um modelo de referência que organiza e padroniza a comunicação entre diferentes dispositivos e sistemas em uma rede de computadores.
+A comunicação entre computadores é organizada por camadas. Para entender como elas funcionam, precisamos conhecer três conceitos fundamentais: **interfaces, protocolos e serviços**.
 
-Ele foi desenvolvido pela ISO (International Organization for Standardization) e divide a comunicação em **7 camadas**, cada uma com uma função específica.
+### 1. Interfaces
 
-O modelo facilita o entendimento de como os dados são transmitidos e ajuda a identificar problemas nas redes.
+São os pontos de comunicação entre camadas vizinhas de um mesmo sistema.
 
-## 2. As 7 camadas do Modelo OSI
+A interface define como uma camada acessa os recursos e funcionalidades oferecidos pela camada imediatamente inferior.
 
-| Número | Camada | Função principal |
-|---|---|---|
-| 7 | Aplicação | Oferece serviços de rede aos aplicativos. |
-| 6 | Apresentação | Formata, codifica, comprime e criptografa dados. |
-| 5 | Sessão | Gerencia as sessões de comunicação. |
-| 4 | Transporte | Controla a comunicação e a entrega dos dados. |
-| 3 | Rede | Trabalha com endereçamento IP e roteamento. |
-| 2 | Enlace de Dados | Trabalha com quadros e endereços MAC. |
-| 1 | Física | Transmite os bits pelo meio físico. |
+**Exemplo:** uma camada utiliza os serviços da camada abaixo para realizar suas funções, sem precisar conhecer todos os detalhes internos dela.
 
-## 3. Entendendo as camadas
+### 2. Protocolos
 
-### Camada 7 — Aplicação
+São conjuntos de regras que determinam como entidades de uma mesma camada se comunicam em dispositivos diferentes.
 
-É a camada mais próxima do usuário. Fornece serviços de rede utilizados pelos aplicativos.
+Essas regras definem como as informações devem ser organizadas, transmitidas e interpretadas.
 
-**Exemplos:**
-- HTTP e HTTPS.
-- FTP.
-- SMTP.
-- DNS.
+**Exemplo:** dois computadores precisam seguir regras compatíveis para conseguir trocar informações corretamente.
 
-**Exemplo prático:** acessar um site pelo navegador.
+### 3. Serviços
 
-### Camada 6 — Apresentação
+Representam as funcionalidades que uma camada oferece à camada imediatamente superior.
 
-Prepara os dados para que possam ser interpretados corretamente pelo sistema de destino.
+Uma camada utiliza os serviços da camada inferior e, ao mesmo tempo, pode oferecer serviços à camada acima.
 
-**Principais funções:**
-- Formatação dos dados.
-- Codificação.
-- Criptografia.
-- Compressão.
+**Exemplo:** uma camada solicita à camada inferior que realize determinada tarefa, sem precisar conhecer como ela executa essa tarefa internamente.
 
-**Exemplo prático:** converter informações para um formato que o sistema de destino consiga interpretar.
+## Diferença entre os três conceitos
 
-### Camada 5 — Sessão
+| Conceito | Função |
+|---|---|
+| Interface | Define a comunicação entre camadas vizinhas. |
+| Protocolo | Define as regras de comunicação entre entidades de mesma camada. |
+| Serviço | Define o que uma camada oferece à camada superior. |
 
-Gerencia a comunicação entre aplicações, estabelecendo, mantendo e encerrando sessões.
+## Para memorizar
 
-**Principais funções:**
-- Estabelecer sessões.
-- Manter a comunicação.
-- Encerrar sessões.
-- Sincronizar a troca de informações.
+- **Interface:** como uma camada acessa a camada vizinha.
+- **Protocolo:** regras de comunicação entre camadas equivalentes.
+- **Serviço:** o que uma camada oferece à camada superior.
 
-**Exemplo prático:** manter uma sessão de comunicação ativa entre dois
+> **Atenção:** este resumo foi elaborado com base na descrição da aula enviada. Ele organiza os três conceitos anunciados, mas não substitui a explicação completa do professor nem confirma todos os exemplos apresentados no vídeo.
